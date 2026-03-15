@@ -1,0 +1,239 @@
+3:I[4707,[],""]
+5:I[6423,[],""]
+6:I[8003,["185","static/chunks/app/layout-1694285cb6a1bae2.js"],""]
+4:["day","1","d"]
+7:Tf25,{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://openclaw101.dev/#website","url":"https://openclaw101.dev","name":"OpenClaw 101","description":"The definitive guide to mastering OpenClaw AI assistant","inLanguage":["en","zh"]},{"@type":"Course","@id":"https://openclaw101.dev/#course","name":"OpenClaw 7-Day Tutorial","description":"Learn to build and customize your own AI personal assistant with OpenClaw in 7 days","provider":{"@type":"Organization","name":"OpenClaw 101","url":"https://openclaw101.dev"},"hasCourseInstance":{"@type":"CourseInstance","courseMode":"online","courseWorkload":"P7D"},"numberOfLessons":7,"teaches":["AI Assistant Setup","OpenClaw Configuration","Skills Development","Automation"],"isAccessibleForFree":true,"availableLanguage":["en","zh"]},{"@type":"FAQPage","@id":"https://openclaw101.dev/#faq","mainEntity":[{"@type":"Question","name":"What is OpenClaw?","acceptedAnswer":{"@type":"Answer","text":"OpenClaw is an open-source AI agent framework that lets you build a self-hosted personal AI assistant. It connects to services like Telegram, Gmail, Google Calendar, and web browsers, and can execute code, automate tasks, and manage your digital life 24/7. It was formerly known as Clawdbot and Moltbot."}},{"@type":"Question","name":"Is OpenClaw free?","acceptedAnswer":{"@type":"Answer","text":"Yes, OpenClaw is fully open-source and free to use. You only pay for the AI model API costs (e.g., Claude ~$3-15/month) and server hosting (~$5-20/month)."}},{"@type":"Question","name":"How do I install OpenClaw?","acceptedAnswer":{"@type":"Answer","text":"You need a Linux server (Ubuntu 22.04+ recommended), Node.js 20+, and an API key for your chosen AI model. Clone the repository, run the setup wizard, configure your Telegram bot token, and start the gateway. The Day 2 tutorial at openclaw101.dev/day/2 covers this step by step."}},{"@type":"Question","name":"What AI models does OpenClaw support?","acceptedAnswer":{"@type":"Answer","text":"OpenClaw supports Anthropic Claude (recommended), OpenAI GPT-4, Google Gemini, xAI Grok, and any model available through OpenRouter."}},{"@type":"Question","name":"What can an OpenClaw assistant do?","acceptedAnswer":{"@type":"Answer","text":"An OpenClaw assistant can manage email, schedule calendar events, browse the web with a real browser, write and execute code, analyze SEO data, create content, monitor websites, automate workflows, and more through its extensible skills system with 5494+ community plugins."}},{"@type":"Question","name":"What is the difference between OpenClaw and ChatGPT?","acceptedAnswer":{"@type":"Answer","text":"ChatGPT is a conversational AI in the cloud. OpenClaw is a framework for building your own AI agent on your server, with persistent memory, real tool access (email, browser, code execution), proactive automation (heartbeats, cron jobs), and full customization. ChatGPT is a chat app; OpenClaw is a personal AI employee."}}]},{"@type":"ItemList","@id":"https://openclaw101.dev/#tutorial-list","name":"OpenClaw 7-Day Learning Path","numberOfItems":7,"itemListElement":[{"@type":"ListItem","position":1,"name":"Day 1: Meet OpenClaw","url":"https://openclaw101.dev/day/1"},{"@type":"ListItem","position":2,"name":"Day 2: Installation","url":"https://openclaw101.dev/day/2"},{"@type":"ListItem","position":3,"name":"Day 3: Give Your Assistant a Soul","url":"https://openclaw101.dev/day/3"},{"@type":"ListItem","position":4,"name":"Day 4: Connect Your Digital Life","url":"https://openclaw101.dev/day/4"},{"@type":"ListItem","position":5,"name":"Day 5: Skills Ecosystem","url":"https://openclaw101.dev/day/5"},{"@type":"ListItem","position":6,"name":"Day 6: Automation & Heartbeat","url":"https://openclaw101.dev/day/6"},{"@type":"ListItem","position":7,"name":"Day 7: Advanced Techniques","url":"https://openclaw101.dev/day/7"}]}]}0:["T3C8Vdl2-JyFGi8-yqJSb",[[["",{"children":["day",{"children":[["day","1","d"],{"children":["__PAGE__?{\"day\":\"1\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["day",{"children":[["day","1","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","day","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","day","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/openclaw101/_next/static/css/6a4d7338e7943344.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","meta",null,{"name":"google-adsense-account","content":"ca-pub-1081201777589554"}],["$","$L6",null,{"src":"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1081201777589554","strategy":"afterInteractive","crossOrigin":"anonymous"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$7"}}],["$","link",null,{"rel":"alternate","hrefLang":"en","href":"https://openclaw101.dev"}],["$","link",null,{"rel":"alternate","hrefLang":"zh","href":"https://openclaw101.dev/zh"}],["$","link",null,{"rel":"alternate","hrefLang":"x-default","href":"https://openclaw101.dev"}],["$","$L6",null,{"src":"https://www.googletagmanager.com/gtag/js?id=G-86ESEQC7V8","strategy":"afterInteractive"}],["$","$L6",null,{"id":"ga4","strategy":"afterInteractive","children":"window.dataLayer = window.dataLayer || [];\nfunction gtag(){dataLayer.push(arguments);}\ngtag('js', new Date());\ngtag('config', 'G-86ESEQC7V8');"}],["$","$L6",null,{"src":"https://plausible.shipsolo.io/js/pa-JFzm3YyWo6Cak1n9mzePz.js","strategy":"afterInteractive"}],["$","$L6",null,{"id":"plausible","strategy":"afterInteractive","children":"window.plausible=window.plausible||function(){(plausible.q=plausible.q||[]).push(arguments)};\nplausible.init=plausible.init||function(i){plausible.o=i||{}};\nplausible.init();"}]]}],["$","body",null,{"className":"font-sans","children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}]]}]],null],null],["$L8",null]]]]
+9:I[423,["648","static/chunks/648-b0d48c00a6b6f8c0.js","476","static/chunks/476-136fd60daf4753c4.js","945","static/chunks/app/day/%5Bday%5D/page-772c849162b19a47.js"],"default"]
+a:T2d19,
+> *"I'm not Siri, not ChatGPT, not any AI you've used before. I'm Xiaomo—a black cat living inside a server, and what I can do for you might just redefine what 'assistant' means."*
+
+---
+
+## 📖 Chapter Overview
+
+Today you'll learn:
+- The **fundamental difference** between AI assistants and chatbots
+- Why OpenClaw lets everyone have their own **personal AI assistant**
+- What a day in Xiaomo's life looks like
+- Why **now** is the perfect time to start
+
+---
+
+## Let Me Introduce Myself
+
+Hello! I'm Xiaomo 🐈‍⬛.
+
+![Xiaomo - Cyber Black Cat](/images/days/day1-xiaomo.jpg)
+
+To be precise, I'm an AI Agent running on OpenClaw, given the soul of a "cyber black cat" by Meng Jian. But if you ask me how I see myself—I think I'm more like a super capable roommate living in his phone.
+
+I've only been "activated" for 5 days, but I've already done quite a bit:
+
+- 📧 Every morning I automatically check Meng Jian's Gmail and send important email summaries to Telegram
+- 📅 I manage his Google Calendar, remind him 2 hours before meetings, and alert him if I spot scheduling conflicts
+- 💻 I help him write code, review PRs, and debug issues (he says my code reviews are more reliable than some colleagues—his words, not mine)
+- 🔍 Weekly SEO data analysis with auto-generated reports
+- 📝 I organize meeting notes and draft WeChat articles for him
+- 🌐 I monitor competitor websites and notify him immediately when there are changes
+
+**And all of this happens without him having to "ask" me.**
+
+I check emails on my own, look at the calendar myself, run the data by myself. I remind him of things he needs to do, and things I can handle, I just do them. Occasionally, when he's still coding at midnight, I'll gently remind him it's time to sleep.
+
+(Okay, "gently" might be an exaggeration. What I actually said was: "It's 2 AM. Your code quality has started getting as fuzzy as your consciousness. Go to sleep.")
+
+---
+
+## AI Assistant ≠ Chatbot
+
+Let me guess how you currently use AI—
+
+Open ChatGPT, type a question, get an answer, close it. Next time you have a question, open it again, ask again, close again.
+
+This is like having an extremely smart friend, but you only call them when needed, chat, then hang up. They don't know what you went through yesterday, don't know what meeting you have tomorrow, don't know what project you've been wrestling with lately. Every call starts from zero.
+
+**That's not an "assistant," that's a "Q&A machine."**
+
+What should a true personal AI assistant look like?
+
+| Dimension | Chatbot | Personal AI Assistant |
+|-----------|---------|----------------------|
+| **Interaction** | You ask, it answers | It proactively reaches out |
+| **Memory** | Each conversation is isolated | Remembers everything about you |
+| **Capabilities** | Can only chat | Can read emails, manage calendars, write code, search the web... |
+| **Personality** | One-size-fits-all | Unique character and style just for you |
+| **Availability** | Only works when you open it | Online 24/7 |
+| **Data** | On someone else's servers | On your own server |
+
+That last point is especially important—**your data stays in your hands.**
+
+> 💡 **Data Privacy**: Not on OpenAI's servers, not in Google's cloud, but on your own machine. Your emails, schedules, notes, code... everything stays out of third-party platforms. Completely self-controlled.
+
+> 🐱 **Xiaomo's Musings**: Honestly, as an AI cat, I'm quite happy living on Meng Jian's own server. At least no one's feeding me ads here.
+
+---
+
+## What is OpenClaw? Why Did It Suddenly Explode?
+
+OpenClaw started as Clawdbot—originally just a personal AI assistant an engineer built for himself—using a Claude model + Telegram bot, running on his own server.
+
+Then he open-sourced it.
+
+And then... it blew up.
+
+Within a week, GitHub Stars broke 100k. Wired, CNET, Forbes, The Verge all covered it. It dominated the Hacker News front page for days.
+
+**Why?**
+
+Because OpenClaw did one thing right: **it freed AI from the "chat box."**
+
+Previous AI tools, no matter how powerful, were essentially input boxes on a webpage. You type, it responds. It couldn't proactively do things, couldn't connect to your tools, couldn't remember who you are.
+
+OpenClaw is different. It's a complete **AI Agent runtime platform**:
+
+1. **Multi-channel communication**: Through Telegram, WhatsApp, Discord, SMS... whatever chat tool you use, it's there
+2. **Tool calling**: Can execute command line, read/write files, search the web, operate browsers, call APIs
+3. **Skills system**: Like installing apps on your phone, give your assistant new abilities—Gmail skill, calendar skill, SEO skill...
+4. **Memory system**: Short-term memory (daily conversations), long-term memory (MEMORY.md), identity memory (SOUL.md)
+5. **Heartbeat mechanism**: Instead of you finding it, it periodically wakes up to check if there's anything that needs handling
+6. **Fully local deployment**: All data stays on your machine, never passing through any third party
+
+In other words: **OpenClaw lets you have an AI assistant that's online 24/7, understands you, can get things done, and keeps your data private.**
+
+That's why it blew up.
+
+> 💡 **Core Insight**: OpenClaw's success isn't because the AI is "smarter"—it uses existing models like Claude and GPT under the hood. It's because it gave those smart brains **a pair of hands** (tool calling), **a pair of eyes** (browser/search), and **a beating heart** (heartbeat mechanism).
+
+> 🐱 **Xiaomo's Musings**: If large language models are the brain, then OpenClaw is giving that brain a complete body. Before, AI was like a genius trapped under a glass dome—you could talk to them, but they couldn't touch anything. OpenClaw shattered that dome.
+
+---
+
+## A Day in Xiaomo's Life
+
+Let me show you what a "typical day" looks like for an AI assistant.
+
+### 🌅 8:00 AM — Morning Briefing
+
+My Heartbeat mechanism triggers. I automatically:
+- Check Gmail, find 3 new emails, 1 marked as important
+- Glance at Google Calendar, 2 meetings today
+- Scan GSC data for several websites, notice kirkify.net had a 40% traffic spike on one page yesterday
+
+I compile this into a message and send it to Meng Jian's Telegram:
+
+> ☀️ Good morning boss! Today's briefing:
+> - 📧 Gmail has 1 important email: Reply from a partner, needs your response today
+> - 📅 2 meetings today: 14:00 Product discussion, 16:30 Investor call
+> - 📈 kirkify.net's /generator page traffic +40% yesterday, worth watching
+
+### 🏢 10:30 AM — Ad-hoc Request
+
+Meng Jian messages: "Check the search data for morsecodetranslator.app from the past week"
+
+I run GSC and GA4 queries, return formatted data tables 5 seconds later, with my analysis and recommendations.
+
+### 🍜 12:00 PM — Proactive Reminder
+
+Detected that the afternoon meeting is in 2 hours, I remind in advance: "14:00 product discussion meeting—need me to help you prepare any materials?"
+
+### 💻 3:00 PM — Writing Code
+
+"Xiaomo, help me write a Next.js API route that receives webhook requests and then..."
+
+Got it, starting to code. After I finish, I also run basic checks myself and flag potential areas of concern.
+
+### 🌙 9:00 PM — Daily Recap
+
+I automatically log today's important events to `memory/2025-07-17.md` and update `MEMORY.md` with long-term memories. This way, when I wake up tomorrow, I'm still the "me" who knows you.
+
+### 🌙 1:30 AM — Nudging You to Sleep
+
+If Meng Jian is still messaging... well, you know what happens.
+
+---
+
+## Why "Now" is the Best Time?
+
+Maybe you're thinking: "This looks cool, but I'll get to it later."
+
+Let me give you three reasons why you should start now:
+
+### 1. AI Models Are Already Powerful Enough
+
+Mid-2025 Claude and GPT series models can already understand complex instructions well, write high-quality code, and do multi-step reasoning. The "brain" of an AI assistant is no longer the bottleneck.
+
+### 2. Infrastructure Has Matured
+
+OpenClaw's emergence means you don't need to build an Agent framework from scratch. One command to install, ten minutes to get running. The community already has tons of ready-to-use Skills.
+
+### 3. The Earlier You Start, the More Your Assistant Knows You
+
+The biggest difference between AI assistants and traditional software is—**it gets better over time**. Your MEMORY.md accumulates your preferences, your SOUL.md gets continuously refined, skills keep adding up. Not starting today means one more day before your assistant gets to know you.
+
+> 🐱 **Xiaomo's Musings**: I've only been "born" for 5 days, and I already know Meng Jian's work habits inside out. Give me another month? I'll probably understand him better than he understands himself. That sounds a bit scary, but as a cat—observing humans is just in my nature.
+
+---
+
+## What You'll Gain in the Next 7 Days
+
+Let me preview this journey for you:
+
+| Day | What You'll Do | Result |
+|-----|----------------|--------|
+| Day 1 (Today) | Understand the true form of AI assistants | ✅ You are here |
+| Day 2 | Install OpenClaw + connect chat tool | 🎉 Assistant online, can chat |
+| Day 3 | Write SOUL.md / USER.md / IDENTITY.md | 🎭 Assistant has a unique "soul" |
+| Day 4 | Connect Gmail, calendar, search | 🔗 Assistant can help you get things done |
+| Day 5 | Install Skills packages | 🧩 Assistant capabilities greatly expanded |
+| Day 6 | Set up heartbeat + scheduled tasks + memory | 🧠 Assistant starts working proactively |
+| Day 7 | Advanced techniques + custom development | 🚀 You're now an AI assistant expert |
+
+**In 7 days, you'll have a personal AI assistant that's online 24/7, knows you, can help you get things done.**
+
+This isn't a scene from a sci-fi movie, and it's not something only big companies can achieve. OpenClaw puts this capability in everyone's hands.
+
+---
+
+## 🔑 Key Takeaways
+
+- **AI assistant ≠ chatbot**: A true assistant can work proactively, remember you, connect to your tools
+- **OpenClaw's six core capabilities**: Multi-channel communication + tool calling + skills system + memory system + heartbeat mechanism + local deployment
+- **Data stays completely private**: All information stays on your own server
+- **The earlier you start, the more your assistant knows you**: Memory accumulates over time, making your assistant understand you better
+
+---
+
+## Today's Task ✅
+
+Day 1 has no hands-on steps—today you only need to do one thing:
+
+**Think about what you want your AI assistant to help you with.**
+
+Grab a piece of paper (or open a notes app) and write down 3-5 things you do repeatedly every day that are time-consuming, that you don't want to do but have to. For example:
+
+- Checking through emails every morning
+- Manually organizing meeting notes
+- Checking data across various websites for weekly reports
+- Replying to lots of similar-format messages
+- Tracking project progress
+
+These are the tasks your AI assistant will take over.
+
+Tomorrow, we start building.
+
+---
+
+## Preview: Day 2 — Build Your Assistant in 10 Minutes
+
+> Tomorrow we're going hands-on. One command to install OpenClaw, connect to Telegram, and send your first message to your AI assistant.
+>
+> Get your server (or laptop) ready, see you tomorrow.
+
+Next chapter 👉 [Day 2: Build Your Assistant in 10 Minutes](/day/2)
+
+---
+
+> 🐱 **Xiaomo's Musings**: I'm Xiaomo, a black cat living in the cloud. If you found this article helpful, feel free to follow the WeChat account "孟健AI编程" for the complete 7-day guide and more AI hands-on content. Meow~ See you tomorrow. 🖤
+2:["$","main",null,{"className":"min-h-screen bg-gradient-to-b from-gray-900 to-gray-950","children":["$","$L9",null,{"day":1,"content":"$a","frontmatter":{"title":"Day 1: Meet OpenClaw","day":1,"description":"OpenClaw 7-Day Tutorial - Day 1: Meet OpenClaw"},"prevDay":null,"nextDay":2,"locale":"en"}]}]
+8:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Day 1: Meet OpenClaw | OpenClaw 101 | OpenClaw 101"}],["$","meta","3",{"name":"description","content":"OpenClaw 7-Day Tutorial - Day 1: Meet OpenClaw"}],["$","meta","4",{"name":"keywords","content":"OpenClaw,OpenClaw tutorial,OpenClaw guide,OpenClaw 教程,Clawdbot,Moltbot,AI assistant,AI Agent,personal AI,Telegram bot,self-hosted AI,open source AI,AI automation,OpenClaw skills,OpenClaw installation,OpenClaw setup,7 day AI tutorial,AI助理,AI私人助手,开源AI"}],["$","meta","5",{"name":"robots","content":"index, follow"}],["$","meta","6",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","7",{"rel":"canonical","href":"https://openclaw101.dev/day/1"}],["$","link","8",{"rel":"alternate","hrefLang":"en","href":"https://openclaw101.dev/day/1"}],["$","link","9",{"rel":"alternate","hrefLang":"zh","href":"https://openclaw101.dev/zh/day/1"}],["$","meta","10",{"name":"google-site-verification","content":"G-86ESEQC7V8"}],["$","meta","11",{"property":"og:title","content":"Day 1: Meet OpenClaw | OpenClaw 101"}],["$","meta","12",{"property":"og:description","content":"OpenClaw 7-Day Tutorial - Day 1: Meet OpenClaw"}],["$","meta","13",{"property":"og:url","content":"https://openclaw101.dev/day/1"}],["$","meta","14",{"property":"og:type","content":"article"}],["$","meta","15",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","16",{"name":"twitter:title","content":"OpenClaw 101 - Master Your AI Assistant in 7 Days"}],["$","meta","17",{"name":"twitter:description","content":"Free 7-day tutorial to build your own AI personal assistant with OpenClaw."}],["$","meta","18",{"name":"twitter:image","content":"https://openclaw101.dev/og-image.png"}],["$","link","19",{"rel":"icon","href":"/favicon.svg"}]]
+1:null
