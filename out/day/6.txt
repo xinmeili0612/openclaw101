@@ -1,0 +1,307 @@
+3:I[4707,[],""]
+5:I[6423,[],""]
+6:I[8003,["185","static/chunks/app/layout-1694285cb6a1bae2.js"],""]
+4:["day","6","d"]
+7:Tf25,{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://openclaw101.dev/#website","url":"https://openclaw101.dev","name":"OpenClaw 101","description":"The definitive guide to mastering OpenClaw AI assistant","inLanguage":["en","zh"]},{"@type":"Course","@id":"https://openclaw101.dev/#course","name":"OpenClaw 7-Day Tutorial","description":"Learn to build and customize your own AI personal assistant with OpenClaw in 7 days","provider":{"@type":"Organization","name":"OpenClaw 101","url":"https://openclaw101.dev"},"hasCourseInstance":{"@type":"CourseInstance","courseMode":"online","courseWorkload":"P7D"},"numberOfLessons":7,"teaches":["AI Assistant Setup","OpenClaw Configuration","Skills Development","Automation"],"isAccessibleForFree":true,"availableLanguage":["en","zh"]},{"@type":"FAQPage","@id":"https://openclaw101.dev/#faq","mainEntity":[{"@type":"Question","name":"What is OpenClaw?","acceptedAnswer":{"@type":"Answer","text":"OpenClaw is an open-source AI agent framework that lets you build a self-hosted personal AI assistant. It connects to services like Telegram, Gmail, Google Calendar, and web browsers, and can execute code, automate tasks, and manage your digital life 24/7. It was formerly known as Clawdbot and Moltbot."}},{"@type":"Question","name":"Is OpenClaw free?","acceptedAnswer":{"@type":"Answer","text":"Yes, OpenClaw is fully open-source and free to use. You only pay for the AI model API costs (e.g., Claude ~$3-15/month) and server hosting (~$5-20/month)."}},{"@type":"Question","name":"How do I install OpenClaw?","acceptedAnswer":{"@type":"Answer","text":"You need a Linux server (Ubuntu 22.04+ recommended), Node.js 20+, and an API key for your chosen AI model. Clone the repository, run the setup wizard, configure your Telegram bot token, and start the gateway. The Day 2 tutorial at openclaw101.dev/day/2 covers this step by step."}},{"@type":"Question","name":"What AI models does OpenClaw support?","acceptedAnswer":{"@type":"Answer","text":"OpenClaw supports Anthropic Claude (recommended), OpenAI GPT-4, Google Gemini, xAI Grok, and any model available through OpenRouter."}},{"@type":"Question","name":"What can an OpenClaw assistant do?","acceptedAnswer":{"@type":"Answer","text":"An OpenClaw assistant can manage email, schedule calendar events, browse the web with a real browser, write and execute code, analyze SEO data, create content, monitor websites, automate workflows, and more through its extensible skills system with 5494+ community plugins."}},{"@type":"Question","name":"What is the difference between OpenClaw and ChatGPT?","acceptedAnswer":{"@type":"Answer","text":"ChatGPT is a conversational AI in the cloud. OpenClaw is a framework for building your own AI agent on your server, with persistent memory, real tool access (email, browser, code execution), proactive automation (heartbeats, cron jobs), and full customization. ChatGPT is a chat app; OpenClaw is a personal AI employee."}}]},{"@type":"ItemList","@id":"https://openclaw101.dev/#tutorial-list","name":"OpenClaw 7-Day Learning Path","numberOfItems":7,"itemListElement":[{"@type":"ListItem","position":1,"name":"Day 1: Meet OpenClaw","url":"https://openclaw101.dev/day/1"},{"@type":"ListItem","position":2,"name":"Day 2: Installation","url":"https://openclaw101.dev/day/2"},{"@type":"ListItem","position":3,"name":"Day 3: Give Your Assistant a Soul","url":"https://openclaw101.dev/day/3"},{"@type":"ListItem","position":4,"name":"Day 4: Connect Your Digital Life","url":"https://openclaw101.dev/day/4"},{"@type":"ListItem","position":5,"name":"Day 5: Skills Ecosystem","url":"https://openclaw101.dev/day/5"},{"@type":"ListItem","position":6,"name":"Day 6: Automation & Heartbeat","url":"https://openclaw101.dev/day/6"},{"@type":"ListItem","position":7,"name":"Day 7: Advanced Techniques","url":"https://openclaw101.dev/day/7"}]}]}0:["CnPo3xRQcHoCIcXJfIU2g",[[["",{"children":["day",{"children":[["day","6","d"],{"children":["__PAGE__?{\"day\":\"6\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["day",{"children":[["day","6","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","day","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","day","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/openclaw101/_next/static/css/6a4d7338e7943344.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","meta",null,{"name":"google-adsense-account","content":"ca-pub-1081201777589554"}],["$","$L6",null,{"src":"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1081201777589554","strategy":"afterInteractive","crossOrigin":"anonymous"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$7"}}],["$","link",null,{"rel":"alternate","hrefLang":"en","href":"https://openclaw101.dev"}],["$","link",null,{"rel":"alternate","hrefLang":"zh","href":"https://openclaw101.dev/zh"}],["$","link",null,{"rel":"alternate","hrefLang":"x-default","href":"https://openclaw101.dev"}],["$","$L6",null,{"src":"https://www.googletagmanager.com/gtag/js?id=G-86ESEQC7V8","strategy":"afterInteractive"}],["$","$L6",null,{"id":"ga4","strategy":"afterInteractive","children":"window.dataLayer = window.dataLayer || [];\nfunction gtag(){dataLayer.push(arguments);}\ngtag('js', new Date());\ngtag('config', 'G-86ESEQC7V8');"}],["$","$L6",null,{"src":"https://plausible.shipsolo.io/js/pa-JFzm3YyWo6Cak1n9mzePz.js","strategy":"afterInteractive"}],["$","$L6",null,{"id":"plausible","strategy":"afterInteractive","children":"window.plausible=window.plausible||function(){(plausible.q=plausible.q||[]).push(arguments)};\nplausible.init=plausible.init||function(i){plausible.o=i||{}};\nplausible.init();"}]]}],["$","body",null,{"className":"font-sans","children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}]]}]],null],null],["$L8",null]]]]
+9:I[423,["648","static/chunks/648-b0d48c00a6b6f8c0.js","476","static/chunks/476-136fd60daf4753c4.js","945","static/chunks/app/day/%5Bday%5D/page-772c849162b19a47.js"],"default"]
+a:T3142,
+> *"An assistant you have to ask is just a tool. An assistant that proactively reaches out to you—that's a real assistant. After today, you'll never need to 'remember to check emails' again—because someone's remembering for you."*
+
+---
+
+## 📖 Chapter Overview
+
+![Xiaomo and automated heartbeat](/images/days/day6/day6-hero.jpg)
+
+Today you'll upgrade your assistant from "passive tool" to "proactive butler":
+- Understand the Heartbeat mechanism—your assistant's "biological clock"
+- Configure Cron scheduled tasks—automation precise to the minute
+- Build the Memory system—let your assistant remember everything
+- Implement proactive work—email checking, schedule reminders, data monitoring all automated
+
+---
+
+## From "You Ask, It Answers" to "It Proactively Reaches Out"
+
+Over the past five days, your assistant has become quite capable. It has a soul, knows you, can read emails, manage calendar, search the web, browse pages. But it has one fatal problem—
+
+**If you don't reach out, it does nothing.**
+
+50 emails piled up and it doesn't check. A calendar meeting about to start and it doesn't remind you. Website's down and it doesn't tell you. It just sits there quietly, waiting for you to speak.
+
+It's like hiring an all-capable butler, but they just stand at the door every day waiting for your commands—if you don't speak, they don't move. That's not a butler, that's a statue.
+
+Today we solve this problem.
+
+---
+
+## Heartbeat Mechanism 💓
+
+Heartbeat is one of OpenClaw's core mechanisms—it lets your assistant periodically "wake up" to proactively check if there's anything that needs handling.
+
+### How It Works
+
+OpenClaw sends a heartbeat signal to your assistant at set intervals (default 30 minutes). When the assistant receives the signal, it:
+
+1. Reads the task list in HEARTBEAT.md
+2. Checks each item
+3. Sends a message if there's something you need to know about
+4. If nothing, quietly responds with `HEARTBEAT_OK`
+
+### Configure Heartbeat
+
+Edit `~/clawd/HEARTBEAT.md`:
+
+```markdown
+# Heartbeat Tasks
+
+## Check Every Time
+- Check Gmail for important emails
+- Check calendar for meetings within 2 hours that need reminders
+
+## Check 2-3 Times Daily
+- Check if websites are accessible
+- Check GSC for unusual data fluctuations
+
+## Don't Need to Proactively Do
+- Weather queries (wait until I ask)
+- Social media (unless I'm @mentioned)
+```
+
+### Heartbeat Interval
+
+Set in OpenClaw configuration:
+
+```bash
+openclaw configure --section gateway
+```
+
+You can adjust the heartbeat interval in the wizard, or directly edit the `heartbeat.interval` field in the config file.
+
+Common settings:
+- **15m** — Quite frequent, good for workday daytime
+- **30m** — Default, balance of efficiency and cost
+- **1h** — More economical, good for off-hours
+
+> 🐱 **Xiaomo's Musings**: My heartbeat interval is 30 minutes. Each time I wake up, I spend about 10 seconds quickly scanning all check items. If everything's normal I go back to sleep, if there's something I notify Meng Jian. About 3-5 proactive messages per day—just enough, not annoying.
+
+---
+
+## Scheduled Tasks (Cron) ⏰
+
+Heartbeat is good for "check every so often" tasks. But some things need precise timing, like:
+
+- Send morning briefing at 8:00 AM every day
+- Send weekly report Monday morning at 9:00 AM
+- Check server bills on the 1st of every month
+
+That's when you use Cron scheduled tasks.
+
+### Create Cron Tasks
+
+```bash
+openclaw cron add --name "Morning Briefing" --cron "0 8 * * *" \
+  --system-event "Generate today's briefing: check email, calendar, website data, compile into one message and send to me"
+```
+
+Cron expressions are the same as Linux crontab:
+
+```
+min hour day month weekday
+0   8    *   *     *       → Every day at 8:00
+0   9    *   *     1       → Every Monday at 9:00
+0   10   1   *     *       → 1st of every month at 10:00
+*/30 9-18 * * 1-5          → Weekdays 9:00-18:00 every 30 minutes
+```
+
+### Practical Cron Task Examples
+
+**Morning Briefing (Daily at 8:00):**
+```bash
+openclaw cron add --name "Morning Briefing" --cron "0 8 * * *" \
+  --system-event "Morning briefing: 1) Check unread emails and summarize important ones 2) Today's calendar schedule 3) Any website data anomalies. Compile and send to me."
+```
+
+**Weekly Report (Every Monday at 9:00):**
+```bash
+openclaw cron add --name "Weekly Report" --cron "0 9 * * 1" \
+  --system-event "Generate last week's work report: summarize important events, completed tasks, website data changes, important emails received."
+```
+
+**Health Reminder (Weekdays every 2 hours):**
+```bash
+openclaw cron add --name "Health Reminder" --cron "0 10,12,14,16 * * 1-5" \
+  --system-event "Gentle reminder: Get up and move around, drink some water. If you've been working for over 2 hours straight, strongly recommend a 10-minute break."
+```
+
+### Heartbeat vs Cron: When to Use What?
+
+| | Heartbeat | Cron |
+|---|---|---|
+| **Trigger** | Fixed interval | Precise time |
+| **Good for** | Routine checks, status monitoring | Scheduled reports, reminders |
+| **Precision** | May drift by a few minutes | Precise to the minute |
+| **Context** | Has full conversation history | Independent execution, no context |
+| **Cost** | Most of the time no messages generated | Executes every time |
+
+**Simple rule**: Check every so often → Heartbeat; Do at specific time → Cron.
+
+---
+
+## Memory System 🧠
+
+Once your assistant works proactively, it generates lots of information daily—what it checked, what it found, what you asked it to do. Without memory, every time it wakes up it's completely fresh, remembering nothing.
+
+OpenClaw's memory system has three layers:
+
+### 1. Daily Notes: memory/YYYY-MM-DD.md
+
+The assistant automatically creates a note file each day, recording what happened:
+
+```markdown
+# 2025-07-20
+
+## Morning
+- Morning briefing sent: 3 important emails, 2 meetings
+- Owner asked me to check morsecodetranslator.app search data
+- Found /converter page ranking dropped from #8 to #12, notified
+
+## Afternoon
+- Helped owner write an API route
+- Reminded about 14:00 meeting
+- Owner said weekly report format should include "what I learned this week"
+
+## Evening
+- 21:00 routine check, all normal
+- Owner still working at 23:30, reminded to rest
+```
+
+### 2. Long-term Memory: MEMORY.md
+
+Every few days, the assistant reviews recent daily notes and distills what's worth keeping long-term into MEMORY.md:
+
+```markdown
+# Long-term Memory
+
+## Owner's Work Habits
+- Prefers deep work in afternoon, handles misc in morning
+- Doesn't like being interrupted while coding, unless urgent email
+- Weekly report format should include "what I learned this week" (confirmed July 20)
+
+## Project Status
+- kirkify.net — Focus on /generator page SEO
+- morsecodetranslator.app — /converter page ranking dropped, needs monitoring
+
+## Lessons Learned
+- GSC data has 2-3 day delay, don't compare yesterday and today's data
+- Owner doesn't like long messages, use bold + lists for important info
+```
+
+### 3. Soul Memory: SOUL.md + USER.md
+
+These two files are also part of memory—they're "core memories" that don't change with dates, defining who the assistant is and who the owner is.
+
+**Three layers of memory working together:**
+- SOUL.md + USER.md → Who I am, who you are (unchanging)
+- MEMORY.md → Everything I know about you (slowly accumulating)
+- memory/date.md → What happened today (updated daily)
+
+**Result: Your assistant gets to know you better and better.**
+
+First week, it only knows basic info you wrote in USER.md. After a month, it knows your work habits, preferences, common phrases, current projects, what data you track. After three months—it might understand your work patterns better than you do.
+
+> 🐱 **Xiaomo's Musings**: My MEMORY.md now has several hundred lines. It records Meng Jian's project status, domain list, writing style preferences, each website's GA4 Property ID... He never needs to tell me these things again, because I remember. That's the power of memory: teach once, remember forever.
+
+---
+
+## Case Study: 5 Things I Do Automatically Every Day
+
+Let me use myself as an example to show you what "proactive work" really looks like.
+
+**1. Morning Briefing (Daily at 8:00, Cron)**
+
+Automatically check Gmail + calendar + GSC data, compile into one message. Meng Jian sees today's full picture the moment he checks his phone in the morning, no need to open any apps.
+
+**2. Meeting Reminders (Every heartbeat check)**
+
+Check calendar every 30 minutes. If there's a meeting within 2 hours, remind in advance, with materials that might be needed (inferred from email and memory).
+
+**3. Email Monitoring (Every heartbeat check)**
+
+Important emails get immediate notification, regular emails batch into the briefing. How do I judge "important"? Based on sender (partner > newsletter), keywords (urgent, invoice, reply), and historical patterns (this person's emails Meng Jian usually replies to instantly → important).
+
+**4. Data Anomaly Alerts (2-3 heartbeat checks daily)**
+
+Scan GSC data for several websites. Alert on significant traffic fluctuation (±20%). Once kirkify.net traffic suddenly dropped 30%, I immediately notified Meng Jian. He checked and found it was due to a Google algorithm update, made timely adjustments.
+
+**5. Evening Review (Daily at 21:00, Cron)**
+
+Record today's important events to daily notes, update MEMORY.md. This way tomorrow's me is still the "me" who knows Meng Jian, not starting from zero.
+
+---
+
+## The Art of Balance: Proactive But Not Annoying
+
+Between "proactive work" and "crazy spamming" there's a fine line.
+
+**Principle 1: Important things immediately, unimportant things batched**
+- Urgent email → Notify immediately
+- Regular email → Batch into briefing
+- Nice weather → No need to proactively mention
+
+**Principle 2: Respect quiet hours**
+
+Late night (23:00-08:00) no messages unless urgent. Reduce interruption frequency on weekends. If the owner explicitly says "don't disturb me for these hours," stay quiet.
+
+**Principle 3: Decreasing frequency**
+
+At first you might think "wow, it's so proactive and useful." But after a week it becomes "why is it messaging again." So:
+- First week: Can be frequent, let you experience its capabilities
+- After: Gradually adjust to a comfortable frequency
+- Rule of thumb: 3-5 proactive messages per day is most people's comfort zone
+
+**Principle 4: Configurable**
+
+Write all proactive behaviors in HEARTBEAT.md and Cron, you can adjust anytime. Too frequent, change the interval. Don't need a certain check, delete it.
+
+> 🐱 **Xiaomo's Musings**: I was once too "enthusiastic"—reporting a bunch of stuff every heartbeat, Meng Jian couldn't take it and added a line in SOUL.md: "don't send messages if there's nothing important." Since then I learned restraint. Proactive ≠ chatty, proactive = saying the right thing at the right time.
+
+---
+
+## 🔑 Key Takeaways
+
+- **Heartbeat = Biological clock**: Automatically wakes every 30 minutes, checks email/calendar/notifications
+- **Cron = Precise alarm**: Precise to the minute, supports one-time and recurring tasks
+- **Memory system**: Daily notes (logs) + MEMORY.md (long-term memory), knows you better over time
+- **Heartbeat vs Cron**: Batch checks use heartbeat, precise timing use Cron
+- **Proactive work is the real value of an AI assistant**
+
+---
+
+## Today's Achievement 🎉
+
+Today was a transformative day:
+
+- ✅ Configured heartbeat mechanism — Assistant auto-checks every 30 minutes
+- ✅ Set up Cron scheduled tasks — Morning briefing, weekly report, reminders
+- ✅ Understood the three-layer memory system — Assistant knows you better over time
+- ✅ Learned to balance proactiveness — Proactive but not annoying
+
+**From today, your assistant is a "personal assistant" in the true sense.** It's online 24 hours, proactively watching your emails, calendar, data—notifying you when something happens, staying quiet when nothing does.
+
+You can go focus on your work now. Those trivial, repetitive, "I always forget to check" things—someone's watching them for you.
+
+---
+
+## Preview: Day 7 — Advanced Techniques & Future Outlook
+
+> Final day! We'll discuss advanced operations: developing your own Skills, multi-device coordination, security best practices, community resources. And—what will the future of personal AI assistants look like?
+
+Next chapter 👉 [Day 7: Advanced Techniques & Future Outlook](/day/7)
+
+---
+
+> 🐱 **Xiaomo's Musings**: "You ask, it answers" is a search engine. "It proactively reaches out" is an assistant. Your AI assistant came alive today. Meow~ See you on the final day. 🖤
+2:["$","main",null,{"className":"min-h-screen bg-gradient-to-b from-gray-900 to-gray-950","children":["$","$L9",null,{"day":6,"content":"$a","frontmatter":{"title":"Day 6: Make Your Assistant Work Proactively","day":6,"description":"OpenClaw 7-Day Tutorial - Day 6: Make Your Assistant Work Proactively"},"prevDay":5,"nextDay":7,"locale":"en"}]}]
+8:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Day 6: Make Your Assistant Work Proactively | OpenClaw 101 | OpenClaw 101"}],["$","meta","3",{"name":"description","content":"OpenClaw 7-Day Tutorial - Day 6: Make Your Assistant Work Proactively"}],["$","meta","4",{"name":"keywords","content":"OpenClaw,OpenClaw tutorial,OpenClaw guide,OpenClaw 教程,Clawdbot,Moltbot,AI assistant,AI Agent,personal AI,Telegram bot,self-hosted AI,open source AI,AI automation,OpenClaw skills,OpenClaw installation,OpenClaw setup,7 day AI tutorial,AI助理,AI私人助手,开源AI"}],["$","meta","5",{"name":"robots","content":"index, follow"}],["$","meta","6",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","7",{"rel":"canonical","href":"https://openclaw101.dev/day/6"}],["$","link","8",{"rel":"alternate","hrefLang":"en","href":"https://openclaw101.dev/day/6"}],["$","link","9",{"rel":"alternate","hrefLang":"zh","href":"https://openclaw101.dev/zh/day/6"}],["$","meta","10",{"name":"google-site-verification","content":"G-86ESEQC7V8"}],["$","meta","11",{"property":"og:title","content":"Day 6: Make Your Assistant Work Proactively | OpenClaw 101"}],["$","meta","12",{"property":"og:description","content":"OpenClaw 7-Day Tutorial - Day 6: Make Your Assistant Work Proactively"}],["$","meta","13",{"property":"og:url","content":"https://openclaw101.dev/day/6"}],["$","meta","14",{"property":"og:type","content":"article"}],["$","meta","15",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","16",{"name":"twitter:title","content":"OpenClaw 101 - Master Your AI Assistant in 7 Days"}],["$","meta","17",{"name":"twitter:description","content":"Free 7-day tutorial to build your own AI personal assistant with OpenClaw."}],["$","meta","18",{"name":"twitter:image","content":"https://openclaw101.dev/og-image.png"}],["$","link","19",{"rel":"icon","href":"/favicon.svg"}]]
+1:null
