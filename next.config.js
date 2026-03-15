@@ -9,7 +9,6 @@ const withMDX = require('@next/mdx')({
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   output: 'export',
-  basePath: '/openclaw101',
   images: {
     unoptimized: true,
   },
